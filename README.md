@@ -12,8 +12,19 @@ the line created by local MBA
 
 [main MBP] ADD LINE
 
-[main MBP] ADD 2ND LINE (AFTER 1ST PR)i
+[main MBP] ADD 2ND LINE (AFTER 1ST PR)
 
 --
 
 [main MBA] test
+
+
+[main MBA] - HEHE
+
+[main MBA] - NONO
+
+==
+
+[main MBP] add name and email in git setting 
+
+[main MBP] 
